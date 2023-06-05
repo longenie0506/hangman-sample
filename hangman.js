@@ -1,5 +1,5 @@
 // Hangman Game
-var wordList = ["apple", "banana", "cherry", "date", "elderberry","strawberry","orange"]; // List of words to choose from
+var wordList = ["apple", "banana", "cherry","strawberry","orange","longan","mango","pineapple","papaya","lychee","grape","dragonfruit","lemon","lime","kiwi","mangosteen","avocado","cranberry","coconut","rambutan","durian","jackfruit","watermelon"]; // List of words to choose from
 var selectedWord = ""; // The word to guess
 var guessedLetters = []; // Array to store guessed letters
 var remainingGuesses = 6; // Number of remaining guesses
